@@ -9,9 +9,9 @@ Transformation implementation involves translation, rotation, and scaling in a 3
 - Menu options accessible via mouse clicks.
 - Translation: Moves objects along different axes.
 
-## Prerequisites
+## Requirements
 
-**Ensure you have the following installed:**
+Ensure you have the following installed:
 
 1. OpenGL
 
