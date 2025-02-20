@@ -62,9 +62,10 @@ Ensure you have the following installed:
 1. Install **OpenGL** and **GLUT** on your system.
 2. Compile the program using a C++ compiler with OpenGL support:
    ```
-   g++ -o transformation transformation.cpp -lGL -lGLU -lglut
+   g++ cg.cpp -o transformation -lGL -lGLU -lglut
    ```
 3. Run the executable:
    ```
    ./transformation
    ```
+.
