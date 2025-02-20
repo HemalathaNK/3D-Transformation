@@ -7,7 +7,6 @@ Transformation implementation involves translation, rotation, and scaling in a 3
 - Implementation of translation, rotation, and scaling in 3D space.
 - Interaction using keyboard and mouse.
 - Menu options accessible via mouse clicks.
-- Translation: Moves objects along different axes.
 
 ## Requirements
 
