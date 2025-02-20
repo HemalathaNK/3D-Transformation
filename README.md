@@ -1,4 +1,4 @@
-# 3D Transformation Project
+# 3D Transformation
 
 ## Overview
 Transformation implementation involves translation, rotation, and scaling in a 3D space using GLUT and OpenGL. This project demonstrates the fundamental operations of 3D transformations by defining various shapes and applying transformation techniques.
